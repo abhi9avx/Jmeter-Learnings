@@ -1,0 +1,110 @@
+# JMeter specific files
+*.jtl
+*.log
+*.csv
+*.dat
+*.out
+*.properties
+*.jmx.bak
+*.jmx.save
+*.jmx.save.1
+*.jmx.save.2
+*.jmx.save.3
+*.jmx.save.4
+*.jmx.save.5
+*.jmx.save.6
+*.jmx.save.7
+*.jmx.save.8
+*.jmx.save.9
+*.jmx.save.10
+
+# JMeter temporary files
+jmeter.log
+jmeter-server.log
+jmeter-server.log.1
+jmeter-server.log.2
+jmeter-server.log.3
+jmeter-server.log.4
+jmeter-server.log.5
+jmeter-server.log.6
+jmeter-server.log.7
+jmeter-server.log.8
+jmeter-server.log.9
+jmeter-server.log.10
+
+# JMeter backup files
+*.bak
+*.save
+*.save.1
+*.save.2
+*.save.3
+*.save.4
+*.save.5
+*.save.6
+*.save.7
+*.save.8
+*.save.9
+*.save.10
+
+# JMeter report files
+report/
+reports/
+test-report/
+test-reports/
+
+# JMeter temporary directories
+temp/
+tmp/
+backup/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+.project
+.classpath
+.settings/
+
+# Java specific
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# Log files
+logs/
+*.log.*
+
+# Test data files
+test-data/
+data/
+*.csv
+*.xlsx
+*.xls
+*.json
+*.xml
+*.txt
+!README.txt
+
+# Environment files
+.env
+.env.local
+.env.*.local 
